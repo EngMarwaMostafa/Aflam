@@ -2,11 +2,15 @@
 
 A new Flutter application.
 
+## Features
+Movies&
+Now Playing
+Popular&
+Detail Movies
+
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+About
+🎬 MovieApp is a Flutter application built to demonstrate the use of modern development tools with best practices implementation like BLoC, Dependency Injection, Dynamic Theme,  etc.
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
